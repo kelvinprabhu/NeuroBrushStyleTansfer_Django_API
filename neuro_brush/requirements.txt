@@ -1,0 +1,7 @@
+django
+djangorestframework
+torch
+torchvision
+pillow
+matplotlib
+ipython
